@@ -12,7 +12,16 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">Coded by WZDM Management Agency</footer>
+        <footer className="text-center">
+          Coded by&nbsp;
+          <a
+            href="https://github.com/WZDMATL/dictionary-app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            WZDM Management Agency
+          </a>
+        </footer>
       </div>
     </div>
   );
