@@ -8,6 +8,81 @@ This is a [dictionary](https://sleepy-austin-9f9a8c.netlify.app/) that provides 
 
 ## How it's built
 
+### Table of Contents
+∙ [public](https://github.com/WZDMATL/dictionary-app/tree/main/public)
+<br />
+  a. [index.html](https://github.com/WZDMATL/dictionary-app/blob/main/public/index.html)
+  <br />
+  b. [manifest.json](https://github.com/WZDMATL/dictionary-app/blob/main/public/manifest.json)
+  <br />
+∙ [src](https://github.com/WZDMATL/dictionary-app/tree/main/src)
+<br />
+  -App-
+  <br />
+  a. [app.css](https://github.com/WZDMATL/dictionary-app/blob/main/src/App.css)
+  <br />
+  b. [app.js](https://github.com/WZDMATL/dictionary-app/blob/main/src/App.js)
+  <br />
+  c. [app.test.js](https://github.com/WZDMATL/dictionary-app/blob/main/src/App.test.js)
+  <br />
+  -Dictionary-
+  <br />
+  a. [dictionary.css](https://github.com/WZDMATL/dictionary-app/blob/main/src/Dictionary.css)
+  <br />
+  b. [dictionary.js](https://github.com/WZDMATL/dictionary-app/blob/main/src/Dictionary.js)
+  <br />
+  -Meaning-
+  <br />
+  a. [meaning.css](https://github.com/WZDMATL/dictionary-app/blob/main/src/Meaning.css)
+  <br />
+  b. [meaning.js](https://github.com/WZDMATL/dictionary-app/blob/main/src/Meaning.js)
+  <br />
+  -Phonetic-
+  <br />
+  a. [phonetic.css](https://github.com/WZDMATL/dictionary-app/blob/main/src/Phonetic.css)
+  <br />
+  b. [phonetic.js](https://github.com/WZDMATL/dictionary-app/blob/main/src/Phonetic.js)
+  <br />
+  -Photos-
+  <br />
+  a. [photos.css](https://github.com/WZDMATL/dictionary-app/blob/main/src/Photos.css)
+  <br />
+  b. [photos.js](https://github.com/WZDMATL/dictionary-app/blob/main/src/Photos.js)
+  <br />
+  -Results-
+  <br />
+  a. [results.css](https://github.com/WZDMATL/dictionary-app/blob/main/src/Results.css)
+  <br />
+  b. [results.js](https://github.com/WZDMATL/dictionary-app/blob/main/src/Results.js)
+  <br />
+  -Synonyms-
+  <br />
+  a. [synonyms.css](https://github.com/WZDMATL/dictionary-app/blob/main/src/Synonyms.css)
+  <br />
+  b. [synonyms.js](https://github.com/WZDMATL/dictionary-app/blob/main/src/Synonyms.js)
+  <br />
+  -Logo-
+  <br />
+  a. [dictionaryapplogo.png](https://github.com/WZDMATL/dictionary-app/blob/main/src/dictionaryapplogo.png)
+  <br />
+  -Index-
+  <br />
+  a. [index.css](https://github.com/WZDMATL/dictionary-app/blob/main/src/index.css)
+  <br />
+  b. [index.js](https://github.com/WZDMATL/dictionary-app/blob/main/src/index.js)
+  <br />
+  -reportWebVitals-
+  <br />
+  a. [reportWebVitals.js](https://github.com/WZDMATL/dictionary-app/blob/main/src/reportWebVitals.js)
+  <br />
+  -setupTests-
+  <br />
+  a. [setupTests.js](https://github.com/WZDMATL/dictionary-app/blob/main/src/setupTests.js)
+  <br />
+∙ [package-lock.json](https://github.com/WZDMATL/dictionary-app/blob/main/package-lock.json)
+<br />
+∙ [package.json](https://github.com/WZDMATL/dictionary-app/blob/main/package.json)
+
 ### Data
 A majority of the website's page content is stored in the /data/ directory in HTML or MD files. I started with HTML but soon decided that Markdown would be more future proof as it could easily be ported between websites without much work. It allows also the viewing of the content on GitHub in a pretty way.
 
